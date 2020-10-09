@@ -1,4 +1,4 @@
-<h1 align="center"> Hi earthling, I'm Abel Gonzalez Rodriiguez :alien:  </h1>
+<h1 align="center"> Hi earthling, I'm Abel Gonzalez Rodriguez :alien:  </h1>
 <h3 align="center">I'm an alien living in the world, ok no, I'm a backend developer specialized in nodejs passionate about technology, happy and eager to learn and help in new challenges</h3>
 
 <!--
