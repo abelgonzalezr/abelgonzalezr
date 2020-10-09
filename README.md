@@ -9,6 +9,6 @@
 - 🌱 I’m currently learning Node
 - 👯 I’m looking to collaborate on an open-source proyect
 - 🤔 I’m looking for help with proconsumerbot and proconsumerAPI
-- 💬 Ask me about Node, JavaScript, Mocha, Docker
+- 💬 Ask me about Node, JavaScript, Express, Docker
 - 📫 How to reach me: abelgr45@gmail.com
 
